@@ -5,10 +5,10 @@
   <remote name="github" 
           fetch="ssh://git@github.com/bertozzi/" 
   />
-  <default remote="github" revision="2023" dest-branch="2023"/>
+  <default remote="github" revision="2024" dest-branch="2024"/>
 
   <project name="base.git"            path="."/>
-  <project name="finfo.git"           path="esempi2022"/>
+  <project name="finfo.git"           path="esempi"/>
   <project name="lab.git"             path="lab"/>
   <project name="esami_finfo.git"     path="esami"/>
   <project name="finfoslides.git"     path="slides"/>
