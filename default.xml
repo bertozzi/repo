@@ -13,6 +13,7 @@
   <project name="esami_finfo.git"     path="esami"/>
   <project name="finfoslides.git"     path="slides"/>
   <project name="finfoslidespdf.git"  path="slidespdf"/>
+  <project name="finfobook.git"       path="book"/>
 
 </manifest>
 
