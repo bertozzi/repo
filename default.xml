@@ -5,6 +5,9 @@
   <remote name="github" 
           fetch="ssh://git@github.com/bertozzi/" 
   />
+  <remote name="gitlab"
+          fetch="ssh://git@gitlab.com/inginformatica/"
+  />
   <default remote="github" revision="2025" dest-branch="2025"/>
 
   <project name="base.git"            path="."/>
@@ -14,6 +17,7 @@
   <project name="finfoslides.git"     path="slides"/>
   <project name="finfoslidespdf.git"  path="slidespdf"/>
   <project name="finfobook.git"       path="book"/>
+  <project name="2026.git"            path="GIT-TEST" remote="gitlab" revision="main" dest-branch="main"/>
 
 </manifest>
 
